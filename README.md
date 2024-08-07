@@ -57,7 +57,7 @@ dbo.DimCustomer, dbo.DimDate, dbo.DimProduct, dbo.Factinternet sales.
 
 3. Clean the table to remove any unnecessary coloumns, nulls and blanks. Also from the calendar and sales select sales from 2022.
 
-(Sql Scripts attached)
+(Sql Scripts attached - https://github.com/cddharth/AdventureWorks_DataAnalysis)
 
 snap of customer table-
 ![image](https://github.com/user-attachments/assets/6f38bf51-858a-4d74-aa34-5c130347ddb8)
